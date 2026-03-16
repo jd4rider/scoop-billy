@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1-alpha",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jd4rider/billy-app/releases/download/v0.1.1-alpha/billy_windows_amd64.zip",
+            "bin": [
+                "billy.exe"
+            ],
+            "hash": "3260e7fb8d7d67ea89a2fb172bf870c21a24abbb2fbb12f7f642ecbc9f248a3f"
+        }
+    },
+    "homepage": "https://github.com/jd4rider/billy-app",
+    "license": "MIT",
+    "description": "Local AI coding assistant powered by Ollama. No subscription required."
+}
