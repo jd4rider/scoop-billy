@@ -1,12 +1,12 @@
 {
-    "version": "0.1.6-alpha",
+    "version": "0.1.7-alpha",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jd4rider/billy-app/releases/download/v0.1.6-alpha/billy_windows_amd64.zip",
+            "url": "https://github.com/jd4rider/billy-app/releases/download/v0.1.7-alpha/billy_windows_amd64.zip",
             "bin": [
                 "billy.exe"
             ],
-            "hash": "4663bb00be49381d4de23b17a0d5984fcc4664b7354ffea8894067ecf7b9e01f"
+            "hash": "8d36746e33634ebe81e006ce5ef3c08853c2db440b032c09dccc8c74e33e16be"
         }
     },
     "homepage": "https://github.com/jd4rider/billy-app",
