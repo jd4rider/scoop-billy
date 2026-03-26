@@ -9,7 +9,7 @@
             "hash": "5dfac64a3129fa4017260c86e266a0668eb7930569f62b5a82fc3ec13637a98d"
         }
     },
-    "homepage": "https://github.com/jd4rider/billy-app",
+    "homepage": "https://jd4rider.github.io/billy-web",
     "license": "MIT",
     "description": "Local-first AI coding assistant with Ollama and custom endpoints."
 }
