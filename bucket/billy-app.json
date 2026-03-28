@@ -1,15 +1,15 @@
 {
-    "version": "0.1.8-alpha",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jd4rider/billy-app/releases/download/v0.1.8-alpha/billy_windows_amd64.zip",
+            "url": "https://github.com/jd4rider/billy-app/releases/download/v0.2.0/billy_windows_amd64.zip",
             "bin": [
                 "billy.exe"
             ],
-            "hash": "5dfac64a3129fa4017260c86e266a0668eb7930569f62b5a82fc3ec13637a98d"
+            "hash": "3b6a5b6184c4d748a34102c87ea30ff242c7d614f488564d10d5133285b1992a"
         }
     },
-    "homepage": "https://jd4rider.github.io/billy-web",
+    "homepage": "https://billysh.online",
     "license": "MIT",
-    "description": "Local-first AI coding assistant with Ollama and custom endpoints."
+    "description": "Local-first AI coding assistant for the terminal."
 }
